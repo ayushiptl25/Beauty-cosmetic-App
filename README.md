@@ -3,7 +3,8 @@
 
 Glamora is a modern, elegant UI/UX design for a **beauty and cosmetic eCommerce mobile app**, created using **Figma**. The design is focused on smooth user flow, pastel color aesthetics, and intuitive interactions for shopping skincare, haircare, and fragrance products.
 
-[Glamora Banner](./Frame13(1).jpg)
+![Frame 13 (1)](https://github.com/user-attachments/assets/4312f87d-e3a7-44d4-ab6b-4da5e4d6dbe4)
+
 
 ---
 
